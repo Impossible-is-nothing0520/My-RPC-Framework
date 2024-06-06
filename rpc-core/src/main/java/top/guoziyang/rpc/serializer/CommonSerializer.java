@@ -35,4 +35,6 @@ public interface CommonSerializer {
 
     int getCode();
 
+
+
 }

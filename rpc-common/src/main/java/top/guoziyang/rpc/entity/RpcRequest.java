@@ -16,6 +16,8 @@ import java.io.Serializable;
 @AllArgsConstructor
 public class RpcRequest implements Serializable {
 
+    private long mId;
+
     /**
      * 请求号
      */
